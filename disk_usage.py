@@ -9,5 +9,3 @@ print("Total: %i GB" % disk_total)
 print("Used: %i GB" % disk_used)
 print("Free: %i GB" % disk_free)
 print(f"Percentage: {obj_Disk.percent} %")
-
-print("conflict")
